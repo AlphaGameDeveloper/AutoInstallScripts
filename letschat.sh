@@ -14,7 +14,7 @@ NOTE >>>
 
 Description >>>
   - Just automates commands from "https://www.atlantic.net/vps-hosting/how-to-install-lets-chat-on-an-ubuntu-20-04/".
-  - Go to < https://github.com/AlphaGameDeveloper/LetsChatInstallScript/ > for more information.
+  - Go to < https://github.com/AlphaGameDeveloper/AutoInstallScripts/ > for more information.
   
   Thanks for using this script.
 
